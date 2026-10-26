@@ -6,20 +6,21 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 0 | 4 | 0 | `2026-10-25` |
+| **5** | 0 | 5 | 0 | `2026-10-26` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (4)
+### DSA (5)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [467. Bubble Sort](./DSA/Arrays/bubble-sort) | [JAVA](./DSA/Arrays/bubble-sort/solution.java) | 🟡 Medium | `Arrays` | `2026-10-23` |
 | 0002 | [1013. Insertion Sorting](./DSA/Arrays/insertion-sorting) | [JAVA](./DSA/Arrays/insertion-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-24` |
 | 0003 | [1020. Merge Sorting](./DSA/Arrays/merge-sorting) | [JAVA](./DSA/Arrays/merge-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0004 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [JAVA](./DSA/Arrays/selection-sort/solution.java) | 🟡 Medium | `Arrays` | `2026-10-22` |
+| 0004 | [1024. Quick Sorting](./DSA/Arrays/quick-sorting) | [JAVA](./DSA/Arrays/quick-sorting/solution.java) | ⚪ Unspecified | `Arrays` | `2026-10-26` |
+| 0005 | [1031. Selection Sort](./DSA/Arrays/selection-sort) | [JAVA](./DSA/Arrays/selection-sort/solution.java) | 🟡 Medium | `Arrays` | `2026-10-22` |
 
 ---
 
